@@ -78,5 +78,3 @@ Buku ini memberikan panduan praktis dari teori dasar hingga teknik state-of-the-
 Konten di repositori ini merupakan rangkuman dan catatan pembelajaran, **bukan pengganti buku asli**. Untuk penjelasan lengkap, pembaca disarankan memiliki salinan buku resminya.
 
 ---
-
-Terima kasih telah mengunjungi repositori ini! ✨
