@@ -220,18 +220,4 @@ Repositori ini berisi rangkuman catatan dan latihan praktis dari buku *Hands-On 
 - Serving model di production.
 - Monitoring performa, A/B testing, canary deployment.
 
----
 
-## ✅ Kesimpulan
-
-Buku ini membimbing pembaca mulai dari teori dasar hingga penerapan Machine Learning dan Deep Learning skala industri. Praktik coding, tips engineer, dan best practice menjadikan materi relevan untuk developer, data scientist, peneliti, hingga engineer ML production.
-
----
-
-## 📌 Catatan
-
-Konten ini adalah rangkuman pembelajaran pribadi, **bukan pengganti buku asli**. Disarankan membaca buku resminya untuk detail mendalam.
-
----
-
-Terima kasih telah berkunjung! 🚀✨
