@@ -1,5 +1,5 @@
 
-![COVER](https://github.com/user-attachments/assets/01855883-0820-40e6-9f6b-9098f2362a1c)
+![COVER]([https://github.com/user-attachments/assets/01855883-0820-40e6-9f6b-9098f2362a1c](https://github.com/Blackcurrant06/Hands-On-Machine-Learning-with-Skicit-Learn/blob/main/COVER.jpg))
 
 # 📚 Ringkasan *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*
 
