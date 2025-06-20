@@ -1,6 +1,5 @@
 
-![COVER]([https://github.com/user-attachments/assets/01855883-0820-40e6-9f6b-9098f2362a1c](https://github.com/Blackcurrant06/Hands-On-Machine-Learning-with-Skicit-Learn/blob/main/COVER.jpg))
-
+<img src="https://github.com/Blackcurrant06/Hands-On-Machine-Learning-with-Skicit-Learn/blob/main/COVER.jpg" width="300" alt="Book Cover">
 # 📚 Ringkasan *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*
 
 Repositori ini berisi rangkuman catatan dan latihan praktis dari buku *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*. Buku ini memberikan fondasi kuat serta praktik nyata untuk membangun dan mengimplementasikan model Machine Learning modern.
